@@ -1,7 +1,7 @@
 const axios = require("axios");
 const fs = require("fs");
 
-const STREAM_URL = "https://netx.streamstar18.workers.dev/zio1";
+const STREAM_URL = "https://binge-jiotv.pages.dev/data/id.json";
 const OUTPUT_FILE = "stream.json";
 
 async function fetchAndSaveJson() {
