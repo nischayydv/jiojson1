@@ -3,7 +3,7 @@ import fs from "fs/promises";
 const OUTPUT_FILE = "./stream.json";
 
 // 🔁 Replace this with your actual PUBLIC source
-const SOURCE_URL = "https://example.com/api/channels.json";
+const SOURCE_URL = "https://binge-jiotv.pages.dev/data/id.json";
 
 async function fetchSource() {
   const res = await fetch(SOURCE_URL);
