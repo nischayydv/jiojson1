@@ -1,108 +1,66 @@
-const axios = require("axios");
-const fs = require("fs");
+import fs from "fs/promises";
+import fetch from "node-fetch";
 
-const STREAM_URL = "https://perelive.pages.dev/jiotv.m3u";
-const OUTPUT_FILE = "stream.json";
+const OUTPUT_PATH = "./data/id.json";
 
-async function fetchAndSaveJson() {
-  try {
-    const response = await axios.get(STREAM_URL, { responseType: "text" });
-    const lines = response.data.split("\n");
+// 🔁 Replace this with your LEGAL / PUBLIC source
+const SOURCE_URL = "https://binge-jiotv.pages.dev/data/id.json";
 
-    const result = {};
-
-    let currentKid = null;
-    let currentKey = null;
-    let currentTvgId = null;
-    let currentGroup = null;
-    let currentLogo = null;
-    let currentChannel = null;
-    let currentUserAgent = null;
-    let currentCookie = null; // 1. Variable to store the cookie
-
-    for (const line of lines) {
-      const trimmed = line.trim();
-
-      // Extract info from #EXTINF
-      if (trimmed.startsWith("#EXTINF:")) {
-        const tvgIdMatch = trimmed.match(/tvg-id="(\d+)"/);
-        const groupMatch = trimmed.match(/group-title="([^"]+)"/);
-        const logoMatch = trimmed.match(/tvg-logo="([^"]+)"/);
-        const channelMatch = trimmed.match(/,(.*)$/);
-
-        currentTvgId = tvgIdMatch ? tvgIdMatch[1] : null;
-        currentGroup = groupMatch ? groupMatch[1] : null;
-        currentLogo = logoMatch ? logoMatch[1] : null;
-        currentChannel = channelMatch ? channelMatch[1] : null;
-      }
-
-      // Extract kid and key
-      else if (trimmed.startsWith("#KODIPROP:inputstream.adaptive.license_key=")) {
-        const [kid, key] = trimmed.split("=")[1].split(":");
-        currentKid = kid;
-        currentKey = key;
-      }
-
-      // Extract user-agent
-      else if (trimmed.startsWith("#EXTVLCOPT:http-user-agent=")) {
-        currentUserAgent = trimmed.split("=")[1];
-      }
-
-      // 2. Extract Cookie from #EXTHTTP
-      else if (trimmed.startsWith("#EXTHTTP:")) {
-        try {
-          // Remove the prefix to get the JSON part
-          const jsonStr = trimmed.replace("#EXTHTTP:", "");
-          const parsed = JSON.parse(jsonStr);
-          
-          if (parsed && parsed.cookie) {
-            currentCookie = parsed.cookie;
-          }
-        } catch (e) {
-          console.warn("Skipping malformed EXTHEADER line");
-        }
-      }
-
-      // Extract URL and build object
-      else if (currentKid && currentKey && currentTvgId && trimmed.startsWith("http")) {
-        // Remove extra &xxx=... if present
-        const cleanUrl = trimmed.split("&xxx=")[0];
-
-        // 3. Append cookie to URL if it exists
-        let finalUrl = cleanUrl;
-        if (currentCookie) {
-          finalUrl += `?${currentCookie}`;
-        }
-
-        result[currentTvgId] = {
-          kid: currentKid,
-          key: currentKey,
-          url: finalUrl,
-          group_title: currentGroup,
-          tvg_logo: currentLogo,
-          channel_name: currentChannel,
-          user_agent: currentUserAgent
-        };
-
-        // Reset for next entry
-        currentKid = null;
-        currentKey = null;
-        currentTvgId = null;
-        currentGroup = null;
-        currentLogo = null;
-        currentChannel = null;
-        currentUserAgent = null;
-        currentCookie = null; // 4. Reset cookie
-      }
+async function fetchSource() {
+  const res = await fetch(SOURCE_URL, {
+    headers: {
+      "User-Agent": "Mozilla/5.0"
     }
+  });
 
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(result, null, 2), "utf-8");
-    console.log("✅ stream.json saved successfully.");
+  if (!res.ok) {
+    throw new Error(`Failed to fetch source: ${res.status}`);
+  }
 
+  return res.json();
+}
+
+function transformData(source) {
+  // 🔧 Adjust mapping depending on your real API
+  const channels = (source.channels || []).map((ch, i) => ({
+    id: ch.id || `ch${i}`,
+    name: ch.name || "Unknown",
+    url: ch.url || "",
+    logo: ch.logo || ""
+    
+    // ❌ DO NOT include DRM keys / cookies
+  }));
+
+  return {
+    updatedAt: new Date().toLocaleString("en-IN", {
+      timeZone: "Asia/Kolkata"
+    }),
+    channels
+  };
+}
+
+async function saveData(data) {
+  await fs.mkdir("./data", { recursive: true });
+  await fs.writeFile(OUTPUT_PATH, JSON.stringify(data, null, 2));
+  console.log("✅ Data saved to", OUTPUT_PATH);
+}
+
+async function main() {
+  try {
+    console.log("⏳ Fetching source...");
+    const source = await fetchSource();
+
+    console.log("🔄 Transforming...");
+    const finalData = transformData(source);
+
+    console.log("💾 Saving...");
+    await saveData(finalData);
+
+    console.log("🚀 Done");
   } catch (err) {
-    console.error("❌ Failed to fetch M3U:", err.message);
+    console.error("❌ Error:", err.message);
     process.exit(1);
   }
 }
 
-fetchAndSaveJson();
+main();
