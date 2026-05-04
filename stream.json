@@ -1,5 +1,5 @@
 {
-  "updatedAt": "5/5/2026, 2:22:53 am",
+  "updatedAt": "5/5/2026, 3:28:59 am",
   "channels": [
     {
       "id": "ss1h",
@@ -14,7 +14,7 @@
       "id": "ss1",
       "name": "Star Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1777924231~exp=1777945831~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=473c1be19313739987cf060bcd4aebd3b88b6ca9f883f0be748d76fa76b32956",
+      "cookie": "__hdnea__=st=1777928405~exp=1777950005~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=bf099dd7684c4559af23b73037ed2142afe406e8975f1fee09bcd03e2454f0a0",
       "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
       "key": "859695076e67fe961836b564db6d689c",
       "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
