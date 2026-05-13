@@ -1,11 +1,11 @@
 {
-  "updatedAt": "13/5/2026, 1:42:08 pm",
+  "updatedAt": "13/5/2026, 4:15:33 pm",
   "channels": [
     {
       "id": "ss1h",
       "name": "Star Sports 1 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1778645051~exp=1778666651~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=63d478b6dd16aa6b84645fb60ab94c8e10a67f61f751ffc072e702ebe38cc813",
+      "cookie": "__hdnea__=st=1778659902~exp=1778681502~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=e6f42f776740c00f139a75a98c780356f1fb0883d6f0ceab57a808efe06ee794",
       "keyId": "400131994b445d8c8817202248760fda",
       "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
