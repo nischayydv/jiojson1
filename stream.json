@@ -1,11 +1,11 @@
 {
-  "updatedAt": "17/5/2026, 1:16:13 am",
+  "updatedAt": "17/5/2026, 2:03:19 am",
   "channels": [
     {
       "id": "ss1h",
       "name": "Star Sports 1 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1778947371~exp=1778968971~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=a4cd7bce0ec542abf28f03c3c947a31b0f3fdb2747d8d60415280b9fa082dbb2",
+      "cookie": "__hdnea__=st=1778959028~exp=1778980628~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=014001c67e96da47fb00f55c2f1cbb20288ae5652035a681e1c9d411cc15689c",
       "keyId": "400131994b445d8c8817202248760fda",
       "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
@@ -14,7 +14,7 @@
       "id": "ss1",
       "name": "Star Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1778947371~exp=1778968971~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=1c7f9785a583124c61c34ec76ac372cfc77f9bb4d81772a65da61560936e023c",
+      "cookie": "__hdnea__=st=1778959028~exp=1778980628~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=5413ea279c2935dcce00358386998e2080ff7a136015786196684f6018d7a301",
       "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
       "key": "859695076e67fe961836b564db6d689c",
       "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
@@ -41,7 +41,7 @@
       "id": "ss2h",
       "name": "Star Sports 2 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1778947372~exp=1778968972~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=0dac2363f640210a0b7b2b2c9d408d5fb77cfefe8233a515378b32de51a06efd",
+      "cookie": "__hdnea__=st=1778959029~exp=1778980629~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=6ce097d9762684a920160d91788c8ce1dc64452f80771d9334f3b59f897439ca",
       "keyId": "bd1ea6a1c1fb5dcdb709434e0826bbc0",
       "key": "f57f22cba32739ce7beb1fab3f3d060b",
       "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg"
@@ -50,7 +50,7 @@
       "id": "ss2",
       "name": "Star Sports 2 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1778947371~exp=1778968971~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=e77ab24ac7c10a040b75a8316059a66fa7247aee44a7fcd9da85a3140bae2eef",
+      "cookie": "__hdnea__=st=1778959028~exp=1778980628~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=d40595be035544ef29c68ed89d8ab9546237a3b2839c0248bffdfa6f7164d6c9",
       "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
       "key": "e620a970cea474c491ac78ae71a4d764",
       "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg"
