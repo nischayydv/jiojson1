@@ -108,6 +108,7 @@
       "keyId": "03b7771184005501ba6d66c24eac1414",
       "key": "bfbc4f689e14c75c4cd3c85c2192b2a1",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
+    },
     {
       "id": "ss1sel",
       "name": "Star Sports Select 1 HD",
@@ -118,6 +119,15 @@
       "logo": "https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg"
     },
     {
+      "id": "ss2sel",
+      "name": "Star Sports Select 2 HD",
+      "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1779874204~exp=1779895804~acl=/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/*~hmac=229bd57d8104ca6c0046d144c7297269e67c35a1a1d43624311ac02960af0a63",
+      "keyId": "6017d0514d425fa38f6e80ba6dcc852f",
+      "key": "0018944b00adf2078f62386f30c68b74",
+      "logo": "https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg"
+    },
+     {
       "id": "ss2sel",
       "name": "Star Sports Select 2 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/WDVLive/index.mpd",
