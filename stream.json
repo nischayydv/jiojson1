@@ -10,6 +10,15 @@
       "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
     },
+     {      
+      "id": "kayo",
+      "name": "ADDS FREE Hindi HD",
+      "url": "https://dck1-fs-live.dtcdn.dazn.com/out/v1/761f422bb93edb7b/b950ea05fb764eea969d5d9b28271ef8/index.mpd",
+      "cookie": "",
+      "keyId": "03b7771184005501ba6d66c24eac1414",
+      "key": "bfbc4f689e14c75c4cd3c85c2192b2a1",
+      "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
+    },
     {
       "id": "ss1",
       "name": "Star Sports 1 HD",
