@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2/7/2026, 4:53:23 am",
+  "updatedAt": "2/7/2026, 7:01:36 am",
   "channels": [
     {
       "id": "ss1h",
       "name": "Star Sports 1 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1782941097~exp=1782962697~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=bad9520c7fde93070a5a96c5dcbde77328ffe5d9e0282501a14d1dc4e409e838",
+      "cookie": "__hdnea__=st=1782947491~exp=1782969091~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=1e0671020b2192143a1096f9d42a80d9d8ed73c9ae8307536ddb80000112fb89",
       "keyId": "400131994b445d8c8817202248760fda",
       "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
@@ -14,7 +14,7 @@
       "id": "ss1",
       "name": "Star Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1782941097~exp=1782962697~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=a166e447fe17c9cc9b2cb72cab971baed8b96a6861eb20fccdd6ad8542bd5f19",
+      "cookie": "__hdnea__=st=1782947491~exp=1782969091~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=4a82eb4a504c4943f6c5dec093f7d816a0a3130d14363dacad7e66bbc9a9d701",
       "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
       "key": "859695076e67fe961836b564db6d689c",
       "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
@@ -41,7 +41,7 @@
       "id": "ss2h",
       "name": "Star Sports 2 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1782941097~exp=1782962697~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=367be8cf7325791a631fd168bffc73941cf082f9bf29b28e588a6feed4eab441",
+      "cookie": "__hdnea__=st=1782947492~exp=1782969092~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=aef9b22463335c53a6671937f77776b0c12967ec9869b4dc74e3c85ba99626ce",
       "keyId": "bd1ea6a1c1fb5dcdb709434e0826bbc0",
       "key": "f57f22cba32739ce7beb1fab3f3d060b",
       "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg"
