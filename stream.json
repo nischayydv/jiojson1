@@ -1,11 +1,11 @@
 {
-  "updatedAt": "15/7/2026, 3:43:37 pm",
+  "updatedAt": "15/7/2026, 5:21:42 pm",
   "channels": [
     {
       "id": "ss1h",
       "name": "Star Sports 1 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784102549~exp=1784124149~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=3c58e540628969f113612e8f5e7bf6629617588721d2125cb83a5da0c7f2e5a9",
+      "cookie": "__hdnea__=st=1784112353~exp=1784133953~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=5b91fa2f3697113f07552ff8c3948cc8ab86f6fb7707153516286822d31bdc6b",
       "keyId": "400131994b445d8c8817202248760fda",
       "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
@@ -14,7 +14,7 @@
       "id": "ss1",
       "name": "Star Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784102549~exp=1784124149~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9d780a3f566b7db28ed3a648e44a5f8ba7d6cf1de841e4c865616045daadafe5",
+      "cookie": "__hdnea__=st=1784112353~exp=1784133953~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=43e8e67b65d94e5fe9bceef48fd81fcfd73a917ced36e65935334b8d991dd0d5",
       "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
       "key": "859695076e67fe961836b564db6d689c",
       "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
@@ -41,7 +41,7 @@
       "id": "ss2h",
       "name": "Star Sports 2 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784102549~exp=1784124149~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=0fe604ea115e4ed9de26ee64664caad24a275dcf425b9cd5bebe87334a39dfe0",
+      "cookie": "__hdnea__=st=1784112353~exp=1784133953~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=c29e18e88ae3f809bec7c10eafb6861e4aaa590f93301f91564db90fb98107e9",
       "keyId": "bd1ea6a1c1fb5dcdb709434e0826bbc0",
       "key": "f57f22cba32739ce7beb1fab3f3d060b",
       "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg"
@@ -50,7 +50,7 @@
       "id": "ss2",
       "name": "Star Sports 2 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784102549~exp=1784124149~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=6cc8008560b1e66f5fdc428ca07cc88f898e5b9e5408e477a4b39be8b770bd9e",
+      "cookie": "__hdnea__=st=1784112353~exp=1784133953~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=fb5493507a970568a8f912b41131111e84b9cdb933236522a0718b0f72f4dbc9",
       "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
       "key": "e620a970cea474c491ac78ae71a4d764",
       "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg"
@@ -77,7 +77,7 @@
       "id": "sony1",
       "name": "Sony Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784102549~exp=1784124149~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=0cb44062c976577386814462904b0b7ff3f2e8a10c11dfd4af2d5d195adfe742",
+      "cookie": "__hdnea__=st=1784112353~exp=1784133953~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=7cb03347572c2374b59ef3251252841c9d43742bc35327a686a8ce019732141e",
       "keyId": "523acf1f55485476817958a62a3f2ed9",
       "key": "52b3cea435ed25d445f9eae4883c7001",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2026-04-08/2604083372005.jpg?width=700"
@@ -86,7 +86,7 @@
       "id": "sony3",
       "name": "Sony Sports 3 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784102550~exp=1784124150~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=21823b569eb2cce0f13d58fd60f2868587371315ce83b4dfb697836dc6ceedfa",
+      "cookie": "__hdnea__=st=1784112353~exp=1784133953~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=f712a3bcd71bc6851a112d104725c9013dd882734b71064b8b028c14f886a6f8",
       "keyId": "71719eea0bbb5319a4e854ac52ea7871",
       "key": "752ed8f45c43ed858af4c1716c05241a",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png"
