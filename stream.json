@@ -1,11 +1,11 @@
 {
-  "updatedAt": "7/8/2026, 2:32:56 pm",
+  "updatedAt": "7/8/2026, 3:38:02 pm",
   "channels": [
     {
       "id": "ss1h",
       "name": "Star Sports 1 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784989718~exp=1785011318~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=6431ff11dc3f361f18db2ae31c1d53e87ef0fe81b08f0375920e8a42463d78e9",
+      "cookie": "__hdnea__=st=1786094101~exp=1786115701~acl=/*~hmac=39f758ad2206c6f068c1a2f0369e258fa259fc0148c58b253fa5cbd429543c17",
       "keyId": "400131994b445d8c8817202248760fda",
       "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
@@ -14,7 +14,7 @@
       "id": "ss1",
       "name": "Star Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784989718~exp=1785011318~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=17fada44a667848488ee8be38b1be87b68428514222902b064d22b20433a84fb",
+      "cookie": "__hdnea__=st=1786094101~exp=1786115701~acl=/*~hmac=39f758ad2206c6f068c1a2f0369e258fa259fc0148c58b253fa5cbd429543c17",
       "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
       "key": "859695076e67fe961836b564db6d689c",
       "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
@@ -41,7 +41,7 @@
       "id": "ss2h",
       "name": "Star Sports 2 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784989718~exp=1785011318~acl=/bpk-tv/StarSportsHD2Hin_BTS/WDVLive/*~hmac=ca03a71a7ec7008f989cd747cc929aa99111c8e57d5c9338c37d142c840e35a4",
+      "cookie": "__hdnea__=st=1786094101~exp=1786115701~acl=/*~hmac=39f758ad2206c6f068c1a2f0369e258fa259fc0148c58b253fa5cbd429543c17",
       "keyId": "bd1ea6a1c1fb5dcdb709434e0826bbc0",
       "key": "f57f22cba32739ce7beb1fab3f3d060b",
       "logo": "https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg"
@@ -50,7 +50,7 @@
       "id": "ss2",
       "name": "Star Sports 2 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784989718~exp=1785011318~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=2e9f9d7767e799753c1b7612a8bfee30d67adfcc1d498d58ecb0f4912e0f4554",
+      "cookie": "__hdnea__=st=1786094101~exp=1786115701~acl=/*~hmac=39f758ad2206c6f068c1a2f0369e258fa259fc0148c58b253fa5cbd429543c17",
       "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
       "key": "e620a970cea474c491ac78ae71a4d764",
       "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg"
@@ -77,7 +77,7 @@
       "id": "sony1",
       "name": "Sony Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784699166~exp=1784720766~acl=/bpk-tv/Ten_HD_BTS/WDVLive/*~hmac=f0797f0f167d107269c9e9e573233d0a300367a491851be4e15326c03fe83d5e",
+      "cookie": "__hdnea__=st=1786094101~exp=1786115701~acl=/*~hmac=39f758ad2206c6f068c1a2f0369e258fa259fc0148c58b253fa5cbd429543c17",
       "keyId": "523acf1f55485476817958a62a3f2ed9",
       "key": "52b3cea435ed25d445f9eae4883c7001",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2026-04-08/2604083372005.jpg?width=700"
@@ -86,7 +86,7 @@
       "id": "sony3",
       "name": "Sony Sports 3 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1784699166~exp=1784720766~acl=/bpk-tv/Ten3_HD_BTS/WDVLive/*~hmac=3b7011c0580bbe90dbc954c6ba3a3c8bf7e469f79f9dc481381b8befc37584e9",
+      "cookie": "__hdnea__=st=1786094101~exp=1786115701~acl=/*~hmac=39f758ad2206c6f068c1a2f0369e258fa259fc0148c58b253fa5cbd429543c17",
       "keyId": "71719eea0bbb5319a4e854ac52ea7871",
       "key": "752ed8f45c43ed858af4c1716c05241a",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png"
