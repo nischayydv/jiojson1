@@ -1,5 +1,5 @@
 {
-  "updatedAt": "21/10/2026, 11:23:57 pm",
+  "updatedAt": "22/10/2026, 2:45:12 am",
   "channels": [
     {
       "id": "ss1h",
@@ -77,7 +77,7 @@
       "id": "sony1",
       "name": "Sony Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1792589433~exp=1792611033~acl=/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/*~hmac=99e11b264060e8a6ff958af7f98be7485e99a780fd80dee0cf5306d79ace7101",
+      "cookie": "__hdnea__=st=1792604376~exp=1792625976~acl=/bpk-tv/SonySportsTen1HDSTB_BTS/WDVLive/*~hmac=de058a16a38b2aa3ccb0f4783af0807f463a721d5baba9f29cdaf8e2d78174b6",
       "keyId": "523acf1f55485476817958a62a3f2ed9",
       "key": "52b3cea435ed25d445f9eae4883c7001",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/shows/2026-04-08/2604083372005.jpg?width=700"
@@ -86,7 +86,7 @@
       "id": "sony3",
       "name": "Sony Sports 3 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1792589434~exp=1792611034~acl=/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/*~hmac=e8460aa8224be5f66c29f92e83004324556851939037ad86699c7b3d5c56c023",
+      "cookie": "__hdnea__=st=1792604377~exp=1792625977~acl=/bpk-tv/SonySportsTen3HinHDSTB_BTS/WDVLive/*~hmac=66cd9a426ec811543cf6f9f95dacf34357c48f209f915150efbf50ce3226add4",
       "keyId": "71719eea0bbb5319a4e854ac52ea7871",
       "key": "752ed8f45c43ed858af4c1716c05241a",
       "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/channel/c063708662593e2a313084f6c0a3f496.png"
