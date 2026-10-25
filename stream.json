@@ -1,11 +1,11 @@
 {
-  "updatedAt": "25/10/2026, 10:10:45 pm",
+  "updatedAt": "26/10/2026, 12:48:06 am",
   "channels": [
     {
       "id": "ss1h",
       "name": "Star Sports 1 Hindi HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1792934962~exp=1792956562~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=246994ee8bb4caffc9fc60f56ee57cb2708f4b74ce51e29df93f3a0366b43e3a",
+      "cookie": "__hdnea__=st=1792949794~exp=1792971394~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=1688b6a215054892ba6b0c9aa36960b76d002e744ac77dd78178a8a4af736b38",
       "keyId": "400131994b445d8c8817202248760fda",
       "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
       "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg"
@@ -14,7 +14,7 @@
       "id": "ss1",
       "name": "Star Sports 1 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1792934962~exp=1792956562~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=9c9610cfa8c5ea110e1bfe4e5021c957686b7ef8c407721893b05fd1e41d3035",
+      "cookie": "__hdnea__=st=1792949793~exp=1792971393~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=22fed1ba92b16af833ba79b910ac7b315e6fbe69b66ea3b7aa376aaac07fe51e",
       "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
       "key": "859695076e67fe961836b564db6d689c",
       "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
@@ -50,7 +50,7 @@
       "id": "ss2",
       "name": "Star Sports 2 HD",
       "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1792934963~exp=1792956563~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=6a86b06e68d6ac6839b51dc8d5e553efd2957ca31f5691a3e37d8cd793c70e13",
+      "cookie": "__hdnea__=st=1792949795~exp=1792971395~acl=/bpk-tv/Star_Sports_HD2_BTS/WDVLive/*~hmac=86d7f8eafcf56fcbcfe1b4dcd0ab4cddf7194d95fb49355885418cf9b688c4dc",
       "keyId": "9457eb90129456fa8ea95e10ba4ac51e",
       "key": "e620a970cea474c491ac78ae71a4d764",
       "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg"
