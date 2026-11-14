@@ -1,5 +1,5 @@
 {
-  "updatedAt": "15/11/2026, 12:52:51 am",
+  "updatedAt": "15/11/2026, 4:43:53 am",
   "channels": [
     {
       "id": "ss1h",
@@ -18,15 +18,6 @@
       "keyId": "965dc2ddb1d85138ad787999a7f30ca5",
       "key": "859695076e67fe961836b564db6d689c",
       "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg"
-    },
-    {
-      "id": "ss1tam",
-      "name": "Star Sports 1 Tamil HD",
-      "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/index.mpd",
-      "cookie": "__hdnea__=st=1779035401~exp=1779057001~acl=/bpk-tv/Star_Sports_1_Tamil_HD_BTS/WDVLive/*~hmac=69451aad52c1e22f88c5457e6869aeed7022ef2828f6741e628dc6d730ec82e1",
-      "keyId": "2272c0bc6b2e5cb090b1f55996e0026c",
-      "key": "943923934de1d5536ab01c67fca8b337",
-      "logo": "https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg"
     },
     {
       "id": "ss1tel",
